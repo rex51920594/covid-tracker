@@ -11,3 +11,6 @@ In the project directory, you can run:
 用來追蹤全球covid-19確診、死亡人數的小小平台
 
 利用Chart & Bar 來視覺化
+
+![image](picture or gif url)
+![image](picture or gif url)
