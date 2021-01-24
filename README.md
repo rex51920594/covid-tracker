@@ -12,5 +12,4 @@ In the project directory, you can run:
 
 利用Chart & Bar 來視覺化
 
-![image](picture or gif url)
-![image](picture or gif url)
+![image](https://github.com/rex51920594/covid-tracker/blob/main/public/chart.PNG)
